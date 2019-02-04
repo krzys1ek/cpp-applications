@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+c:\users\comba\documents\cpp\visual studio\stoper\stoper\myform.cpp(9): warning C4551: wywołaniu funkcji brakuje listy argumentów
+c:\users\comba\documents\cpp\visual studio\stoper\stoper\myform.cpp(10): warning C4551: wywołaniu funkcji brakuje listy argumentów
+  MyForm.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+  Stoper.vcxproj -> C:\Users\comba\Documents\cpp\visual studio\Stoper\Debug\Stoper.exe
